@@ -4,8 +4,8 @@
 <h2>About<a><img src="https://github.com/Samridhi-98/Images/blob/master/Images/reading.svg" width="4%"></a></h2>
 
 <p>
-A web based application to chat with your friends that supports
-multiple users chatting at the same time, enables location sharing etc
+ An expense manager app with authentication, user accounts, routing,
+form validation, database storage.
 </p>
 
 <h2>Technology Stack <a><img src="https://github.com/Samridhi-98/Images/blob/master/Images/atom.svg" width="4%"></a></h2>
